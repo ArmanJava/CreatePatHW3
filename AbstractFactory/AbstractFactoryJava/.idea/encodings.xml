@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/roofs/TileRoof.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/roofs/WoodRoof.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/walls/BrickWall.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/walls/WoodWall.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/windows/PlasticFrameWindow.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/windows/WoodFrameWindow.java" charset="windows-1251" />
+  </component>
+</project>

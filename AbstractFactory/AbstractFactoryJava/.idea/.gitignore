@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\JAVA\JAVA All\Паттерны Проектирования\specialist pattern\[Специалист] Паттерны в объектно-ориентированном программировании (2019)\Creational\AbstractFactory\AbstractFactoryJava\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
